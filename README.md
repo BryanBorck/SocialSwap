@@ -14,6 +14,7 @@ We propose a validation platform for entities, institutions, and reported data, 
 Issue and commercialization of carbon credits to finance projects aligned with the SDGs (amounts are allocated directly to projects through smart contracts);
 Training and implementation of entities for issuing SSIs and validating IDs and reporting data;
 Certified issuance of impact reports.
+
 SOFTWARE
 
 Trusting Network is proud to use cutting-edge technologies to provide the best possible user experience. Our platform is built on the Polygon blockchain, which provides fast and low-cost transactions for trading CBIO tokens within the SSI solution for secure verification of data and agents.
